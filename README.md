@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Kasem Alkhalaf
+
+🎓 Computer Science Student  
+💻 Backend Developer (Python, Django)  
+📊 Interested in Data Science & Machine Learning  
+
+## 🛠 Tech Stack
+- Python, Django, FastAPI
+- PostgreSQL, SQLite
+- Git, Docker (basic)
+- REST APIs
+
+## 📌 Featured Projects
+- 🔹 Subscription Management System (Django + Payments)
+- 🔹 PCA & SVD Analysis (NumPy, Sklearn)
+- 🔹 Data Processing in C
+
+## 📫 Contact
+- GitHub: https://github.com/KasemAlkhalaf
